@@ -1,0 +1,12 @@
+.containerHome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.filterAndSearch{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 35px 10px 35px;
+}
